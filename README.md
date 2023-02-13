@@ -9,7 +9,7 @@ This is a project repository for a password generator that creates random and se
 - Adjustable Password Length: You can specify the length of the password that you want to generate, ranging from 8 to 128 characters.
 
 # How to use
-- Clone the repository: Clone this repository to your local machine using git clone https://github.com/[your-username]/password-generator.git.
+- Clone the repository: Clone this repository to your local machine using git clone https://github.com/AmanAshutosh/password-generator.git.
 
 - Open index.html in a browser: Open the file index.html in a browser of your choice.
 
