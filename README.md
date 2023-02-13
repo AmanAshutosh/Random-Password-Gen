@@ -1,6 +1,9 @@
 # Password Generator
 This is a project repository for a password generator that creates random and secure passwords of adjustable length that can be used for various websites and applications. The password generator is developed using JavaScript.
 
+# UI
+![frame_safari_light (1)](https://user-images.githubusercontent.com/69684043/218406322-2fca94c2-236e-4027-a01f-5e1c85d6fcd0.png)
+
 # Features
 - Random Password Generation: The password generator creates random and secure passwords of different lengths and character types (lowercase letters, uppercase letters, numbers, and special characters).
 
