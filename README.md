@@ -26,7 +26,7 @@ Contributions are welcome! If you have any ideas or bug reports, feel free to op
 # Get in touch
 If you have any questions or feedback about this project, feel free to reach out to me. You can find my contact information below:
 
-Email: ashutoshaman@duck.com
+Email: ashutoshaman@duck.com.
 LinkedIn: linkedin.com/in/codelessness
 Twitter: @Codelessness
 I would love to hear from you and discuss any ideas or opportunities related to this project. Thank you for taking the time to read this repository!
